@@ -4,14 +4,13 @@ Este é um sistema completo de cadastro de usuários com autenticação, desenvo
 
 ## 🔐 Funcionalidades
 
-- Registro de novos usuários com CPF, nome, e-mail, idade e senha
+- Registro de novos usuários com CPF, nome, e-mail, data de nascimento e senha
 - Login com CPF e senha
 - Tela principal com:
   - Cadastro de novos usuários
   - Edição e exclusão de registros
   - Busca por nome ou CPF
   - Exportação dos dados para CSV
-  - Alternância entre modo claro e escuro
   - Botão para sair e voltar à tela de login
 
 ## 🛠️ Tecnologias Utilizadas
