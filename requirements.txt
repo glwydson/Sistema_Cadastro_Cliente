@@ -1,0 +1,5 @@
+# Interface gráfica
+tkinter-tooltip>=1.1.0
+
+# Nota: tkinter já vem incluído com Python
+# Se estiver usando Linux, instale: sudo apt-get install python3-tk
