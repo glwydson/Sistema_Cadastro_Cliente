@@ -31,6 +31,10 @@ PIPFILE.lock
 *.manifest
 *.spec
 
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
 # Unit test / coverage reports
 htmlcov/
 .tox/
@@ -123,9 +127,13 @@ dmypy.json
 *.sqlite
 *.sqlite3
 
-# IDE
+# IDE specific files
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
+
+# OS specific files
+.DS_Store
+Thumbs.db
