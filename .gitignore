@@ -127,13 +127,13 @@ dmypy.json
 *.sqlite
 *.sqlite3
 
-# IDE specific files
+# IDE
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
 
-# OS specific files
+# OS
 .DS_Store
 Thumbs.db
