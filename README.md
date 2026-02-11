@@ -1,31 +1,33 @@
-# Sistema de Cadastro de Usuários com Login
+# User Registration System with Login
 
-Este é um sistema completo de cadastro de usuários com autenticação, desenvolvido em Python com interface gráfica usando Tkinter e banco de dados SQLite.
+This is a complete user registration system with authentication, built in Python with a graphical interface using Tkinter and an SQLite database.
 
-## 🔐 Funcionalidades
+[Português (Brasil)](README.pt-BR.md)
 
-- Registro de novos usuários com CPF, nome, e-mail, data de nascimento e senha
-- Login com CPF e senha
-- Tela principal com:
-  - Cadastro de novos usuários
-  - Edição e exclusão de registros
-  - Busca por nome ou CPF
-  - Exportação dos dados para CSV
-  - Botão para sair e voltar à tela de login
+## 🔐 Features
 
-## 🛠️ Tecnologias Utilizadas
+- Register new users with CPF, name, email, date of birth, and password
+- Login using CPF and password
+- Main screen with:
+  - Create new users
+  - Edit and delete records
+  - Search by name or CPF
+  - Export data to CSV
+  - Button to exit and return to the login screen
+
+## 🛠️ Tech stack
 
 - Python 3
-- Tkinter (interface gráfica)
-- SQLite (banco de dados)
-- hashlib (criptografia de senha)
-- csv (exportação de dados)
+- Tkinter (GUI)
+- SQLite (database)
+- hashlib (password hashing)
+- csv (data export)
+## ▶️ How to run
 
-## ▶️ Como Executar
-
-1. Certifique-se de ter o Python 3 instalado.
-2. Extraia os arquivos do `.zip`.
-3. Execute o arquivo `setup.bat` ou abra o terminal na pasta e digite:
+1. Make sure you have Python 3 installed.
+2. Extract the files from the `.zip`.
+3. Run `setup.bat` or open a terminal in the project folder and run:
 
 ```bash
 python interface.py
+```
